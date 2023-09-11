@@ -14,4 +14,18 @@ tenho 18 anos, moro em São José das Palmeiras/pr e sou aluno(a) da disciplina 
 ### TECNOLOGIAS E FERRAMENTAS:
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="80px"/> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="80px"/> </code>
-          
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="80px"/> </code>
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="80px"/> </code>
+<code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="80px"/> </code>
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  width="80px"/> </code>         
+           
+</br>
+</br>
+<div display="inline-block">
+<p aling="letf"> Sou aluno do CE Jão José </p>          
+<p aling="letf"> Estou estudando HTML5, CSS3 E JAVASCRIPT </p>            
+
+</br>
+Você pode falar comigo pelo [instagram] (https://www.instagram.com/tiagoribas_43) ou pelo [twitter] (https://twitter.com/seu_usuario_aqui) e póde conhecer meus projetos já desenvolvidos, estão disponíveis aqui nos repositórios.
+
+</br>
