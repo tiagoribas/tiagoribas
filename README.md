@@ -12,6 +12,6 @@
 tenho 18 anos, moro em São José das Palmeiras/pr e sou aluno(a) da disciplina de pensamento computacional!
 
 ### TECNOLOGIAS E FERRAMENTAS:
-<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="80px" /> </code>
-<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="80px"/> </code>
+<code> 
 <code> 
